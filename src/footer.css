@@ -1,0 +1,21 @@
+.footer-text{
+    color: #2f81f7;
+    display: flex;
+    justify-content: space-around;
+    width: 56.4rem;
+    font-size: 0.8rem;
+}
+
+.footer2 > div{
+    display: flex; 
+    height: 6.4rem;
+    align-items: center;
+}
+
+
+.footer1{
+    text-align: center;
+    border-bottom: 1px solid;
+    padding-bottom: 2.5rem;
+    padding-top: 1rem;
+}
